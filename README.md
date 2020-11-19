@@ -1,2 +1,19 @@
-# using-TS-in-Vue
-在vue2.x中使用typescript项目
+# vue-ts
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
